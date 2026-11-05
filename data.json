@@ -1,0 +1,25 @@
+{
+    "chart_title": "My favorite foods",
+    "data_points": [
+        {
+            "Food": "Sushi",
+            "Rating": 10
+        },
+        {
+            "Food": "Pizza",
+            "Rating": 5
+        },
+        {
+            "Food": "Tacos",
+            "Rating": 7
+        },
+        {
+            "Food": "Pierogi",
+            "Rating": 9
+        },
+        {
+            "Food": "Salad",
+            "Rating": 7
+        }
+    ]
+}
